@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-(Still a work in progress its just copy pasted from linkedin)
-
 I am a German International Student at Hult International Business School, pursuing a Master of Science in Business Analytics. 
 
 Previously, I obtained my Bachelor of Science in Mechanical Engineering with emphasis in Bioengineering at San Diego State University. While at San Diego State University, one highlight was the opportunity to lead a team through the NASA Lunabotics Robotic Mining Competition in the form of our Senior Design Capstone Program, which can be seen in my projects below. Aside of this, I was able to fulfill my passion for Motorsport while being in the Aztec Formula Racing Club and seeing the car arriving at the Formula SAE Competition in Michigan 2022, is a memory I will never forget. 
