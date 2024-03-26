@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a German International Student at Hult International Business School, pursuing a Master of Science in Business Analytics. 
+
+Previously, I obtained my Bachelor of Science in Mechanical Engineering with emphasis in Bioengineering at San Diego State University. While at San Diego State University, one highlight was the opportunity to lead a team through the NASA Lunabotics Robotic Mining Competition in the form of our Senior Design Capstone Program, which can be seen in my projects below. Aside of this, I was able to fulfill my passion for Motorsport while being in the Aztec Formula Racing Club and seeing the car arriving at the Formula SAE Competition in Michigan 2022, is a memory I will never forget. 
+
+Having a passion for creativity and innovation in the realm of Engineering, while also holding a passion for the Business world and having a business lead mind, combining these two passions is what lead me to pursue my Engineering Undergraduate Degree and continuing my education in International Business. During both of my degrees, especially through my Bachelor degree in Mechanical Engineering, I have found a love in numbers, and the analyzation of such, in order to optimize processes in a strateguc way. This is why I am continuing my education by obtaining a Master of Science in Business Analytics as well. I am a hard worker that loves to learn more and pushing myself in the projects I am given.
+
+If you would like to know more about what I have done and who I am, do not hesitate to reach out to me on LinkedIn to have a conversion over a coffee or through zoom about it! 
+
 <!--
 **AlyssaBr/AlyssaBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
